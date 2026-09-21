@@ -1,56 +1,32 @@
 # Hi, I'm kolemm14 👋
 
-Student developer from Senegal, focused on **Linux, web development, open-source projects and software experimentation**.
+I'm a student developer from Senegal interested in **Linux, web development, open source, and software experimentation**.
 
-I like building practical tools, customizing Linux environments, and learning by creating real projects from scratch.
+I enjoy building practical projects, customizing Linux environments, automating tasks, and learning by creating things from scratch.
 
-## 🚀 What I'm working on
+## 🚀 Current Projects
 
-* 🐧 **Debian Hyprland Custom** — a customizable Hyprland environment and installer for Debian
-* 🎓 **ClasseXP** — a web platform for teachers and students
-* 📱 **MirrorBridge** — Linux screen mirroring for Android and iPhone
-* ♻️ **RePhone Lab** — experiments for reusing old smartphones with Linux
-* 🎬 **FX Pro / Ease Pro** — tools and effects for Adobe After Effects
+* 🐧 **Debian Hyprland Custom** — Custom Hyprland environment and installer for Debian
+* 🎓 **ClasseXP** — Web platform for teachers and students
+* 📱 **MirrorBridge** — Linux smartphone screen-mirroring project
+* ♻️ **RePhone Lab** — Experiments for reusing old smartphones
+* 🎬 **FX Pro / Ease Pro** — Tools and effects for Adobe After Effects
 
 ## 🛠 Tech Stack
 
-### Languages
+**Languages:**
+Python • JavaScript • HTML • CSS • Bash • Rust (learning) • TypeScript (learning)
 
-* Python
-* JavaScript
-* HTML
-* CSS
-* Bash
-* Rust — learning
-* TypeScript — learning
+**Web:**
+Flask • SQLAlchemy • PostgreSQL • REST APIs • PWA
 
-### Web
+**Linux & Systems:**
+Debian • Hyprland • Wayland • Git • Bash • ADB • systemd
 
-* Flask
-* SQLAlchemy
-* PostgreSQL
-* REST APIs
-* PWA
+**Tools:**
+GitHub • VS Code • Vim • Docker • GitHub Actions
 
-### Linux & Systems
-
-* Debian GNU/Linux
-* Hyprland
-* Wayland
-* Git
-* Bash
-* ADB
-* systemd
-
-### Tools
-
-* GitHub
-* VS Code
-* Vim
-* Docker
-* GitHub Actions
-
-## 🌱 Currently learning
+## 🌱 Currently Learning
 
 * Full-stack development
 * Rust
@@ -59,93 +35,71 @@ I like building practical tools, customizing Linux environments, and learning by
 * Automated testing and CI
 * Networking and device communication
 
-## 💡 How I build
+## 💡 My Approach
 
-I prefer learning through real projects.
+I learn by building real projects.
 
-My approach is:
+I usually:
 
-* build small working versions first;
-* automate repetitive work;
-* write tests around important features;
-* use CI to catch regressions;
-* improve architecture progressively instead of rewriting everything.
+* Build small working versions first
+* Automate repetitive tasks
+* Write tests for important features
+* Use CI to detect regressions
+* Improve architecture progressively
 
-## 📌 Featured projects
+## 🎯 Interests
 
-### Debian Hyprland Custom
+I'm particularly interested in:
 
-A Debian customization project focused on creating a modern Hyprland desktop while keeping compatibility with older hardware.
+* Linux & open source
+* Web applications
+* Desktop applications
+* Developer tools
+* Automation
+* Networking
+* System integration
 
-**Focus:** Linux • Hyprland • Bash • Automation • Performance
+## 🤝 Collaboration
 
----
-
-### ClasseXP
-
-A learning and classroom platform where teachers can create classes, assignments and exams while students can submit their work online.
-
-**Focus:** Python • Flask • PostgreSQL • Authentication • PWA
-
----
-
-### MirrorBridge
-
-A Linux application project designed to provide a unified interface for smartphone screen mirroring.
-
-Planned support:
-
-* Android over USB and Wi-Fi
-* Android remote control
-* iPhone AirPlay mirroring
-* video and audio streaming
-* recording
-* multi-device support
-
-**Focus:** Rust • GTK4 • ADB • scrcpy • AirPlay • Linux
-
----
-
-### RePhone Lab
-
-A project exploring how old smartphones can be reused instead of discarded.
-
-Examples include:
-
-* secondary displays;
-* monitoring dashboards;
-* Linux-controlled devices;
-* web interfaces;
-* local network tools.
-
-**Focus:** Linux • Python • Flask • Android • Networking
-
-## 🎯 Goals
-
-My goal is to become a strong software developer capable of building complete applications, from the user interface to the backend and system architecture.
-
-I'm especially interested in:
-
-* Linux
-* open source
-* web applications
-* desktop applications
-* developer tools
-* automation
-* system integration
-
-## 🤝 Open to collaboration
-
-I'm interested in collaborating on:
+I'm open to collaborating on:
 
 * Linux projects
-* open-source applications
-* web platforms
-* developer tools
-* experimental software
+* Open-source applications
+* Web platforms
+* Developer tools
+* Experimental software
 
 ## 📫 Contact
 
-GitHub: **@kolemm14**
+**GitHub:** [@kolemm14](https://github.com/kolemm14)
 
 More links coming soon.
+
+# 💫 About Me:
+# Hi, I'm kolemm14 👋<br><br>Student developer from Senegal, focused on **Linux, web development, open-source projects and software experimentation**.<br><br>I like building practical tools, customizing Linux environments, and learning by creating real projects from scratch.<br><br>## 🚀 What I'm working on<br><br>* 🐧 **Debian Hyprland Custom** — a customizable Hyprland environment and installer for Debian<br>* 🎓 **ClasseXP** — a web platform for teachers and students<br>* 📱 **MirrorBridge** — Linux screen mirroring for Android and iPhone<br>* ♻️ **RePhone Lab** — experiments for reusing old smartphones with Linux<br>* 🎬 **FX Pro / Ease Pro** — tools and effects for Adobe After Effects<br><br>## 🛠 Tech Stack<br><br>### Languages<br><br>* Python<br>* JavaScript<br>* HTML<br>* CSS<br>* Bash<br>* Rust — learning<br>* TypeScript — learning<br><br>### Web<br><br>* Flask<br>* SQLAlchemy<br>* PostgreSQL<br>* REST APIs<br>* PWA<br><br>### Linux & Systems<br><br>* Debian GNU/Linux<br>* Hyprland<br>* Wayland<br>* Git<br>* Bash<br>* ADB<br>* systemd<br><br>### Tools<br><br>* GitHub<br>* VS Code<br>* Vim<br>* Docker<br>* GitHub Actions<br><br>## 🌱 Currently learning<br><br>* Full-stack development<br>* Rust<br>* Linux application development<br>* Software architecture<br>* Automated testing and CI<br>* Networking and device communication<br><br>## 💡 How I build<br><br>I prefer learning through real projects.<br><br>My approach is:<br><br>* build small working versions first;<br>* automate repetitive work;<br>* write tests around important features;<br>* use CI to catch regressions;<br>* improve architecture progressively instead of rewriting everything.<br><br>## 📌 Featured projects<br><br>### Debian Hyprland Custom<br><br>A Debian customization project focused on creating a modern Hyprland desktop while keeping compatibility with older hardware.<br><br>**Focus:** Linux • Hyprland • Bash • Automation • Performance<br><br>---<br><br>### ClasseXP<br><br>A learning and classroom platform where teachers can create classes, assignments and exams while students can submit their work online.<br><br>**Focus:** Python • Flask • PostgreSQL • Authentication • PWA<br><br>---<br><br>### MirrorBridge<br><br>A Linux application project designed to provide a unified interface for smartphone screen mirroring.<br><br>Planned support:<br><br>* Android over USB and Wi-Fi<br>* Android remote control<br>* iPhone AirPlay mirroring<br>* video and audio streaming<br>* recording<br>* multi-device support<br><br>**Focus:** Rust • GTK4 • ADB • scrcpy • AirPlay • Linux<br><br>---<br><br>### RePhone Lab<br><br>A project exploring how old smartphones can be reused instead of discarded.<br><br>Examples include:<br><br>* secondary displays;<br>* monitoring dashboards;<br>* Linux-controlled devices;<br>* web interfaces;<br>* local network tools.<br><br>**Focus:** Linux • Python • Flask • Android • Networking<br><br>## 🎯 Goals<br><br>My goal is to become a strong software developer capable of building complete applications, from the user interface to the backend and system architecture.<br><br>I'm especially interested in:<br><br>* Linux<br>* open source<br>* web applications<br>* desktop applications<br>* developer tools<br>* automation<br>* system integration<br><br>## 🤝 Open to collaboration<br><br>I'm interested in collaborating on:<br><br>* Linux projects<br>* open-source applications<br>* web platforms<br>* developer tools<br>* experimental software<br><br>## 📫 Contact<br><br>GitHub: **@kolemm14**<br><br>More links coming soon.<br>
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kolemm14_dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mouhamet-kebe-203595430/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@kolemm14_labs?lang=fr) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Kolemm14) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Kolemm14) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mouhametkebe271@gmail.com) 
+
+# 💻 Tech Stack:
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=@kolemm14&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=@kolemm14&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=@kolemm14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=@kolemm14&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=@kolemm14&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=@kolemm14&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/KOLEMM14) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
